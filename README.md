@@ -1,10 +1,20 @@
-- 👋 Hi, I’m Luís!
-- 🌱 I’m currently studying at 42 Porto school.
-- 📫 How to reach me
-. luisneves10@gmail.com
-. https://www.linkedin.com/in/luís-neves-8424422b4
+# Hi, I'm Luis! 👋
 
-<!---
-luisneves10/luisneves10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm currently studying at 42Porto to become a software developer. I'm passionate about learning new technologies and improving my coding skills.
+
+## 🌱 What I'm Currently Learning
+
+- **C Programming Language**: I'm diving deep into C as I build a strong foundation in programming.
+
+## 🔧 Languages I Use
+
+- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+## 📫 How to Reach Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+## 🎶 Fun Fact
+
+Before diving into software development, I used to play the drums! 🥁
