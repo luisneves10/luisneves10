@@ -1,6 +1,6 @@
 # Hi, I'm Luis! 👋
 
-I'm seeking to be a software developer, currently studying at 42Porto, an innovative and community-driven coding school with a unique approach to learning.\n
+I'm seeking to be a software developer, currently studying at 42Porto, an innovative and community-driven coding school with a unique approach to learning.
 I'm passionate about learning new technologies and improving my coding skills.
 
 ## 🌱 What I'm Currently Learning
