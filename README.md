@@ -1,4 +1,4 @@
-# Hi, I'm Luis! 👋
+# Hi, I'm Luís! 👋
 
 I'm seeking to be a software developer, currently studying at 42Porto, an innovative and community-driven coding school with a unique approach to learning.
 I'm passionate about learning new technologies and improving my coding skills.
