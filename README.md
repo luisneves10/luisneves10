@@ -8,7 +8,7 @@ I'm currently studying at 42Porto to become a software developer. I'm passionate
 
 ## 🔧 Languages I Use
 
-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## 📫 How to Reach Me
 
