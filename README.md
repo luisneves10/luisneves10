@@ -5,11 +5,13 @@ I'm passionate about learning new technologies and improving my coding skills.
 
 ## What I'm Currently Learning
 
-- **C Programming Language**: I'm diving deep into C as I build a strong foundation in programming.
+- **C++** : Exploring object-oriented programming and advanced features.
+- **Frontend Development** : Learning HTML, CSS, and JavaScript/TypeScript to build responsive and interactive web applications.
 
 ## Languages I Use
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Editor/IDE
