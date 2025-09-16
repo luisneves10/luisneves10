@@ -3,11 +3,6 @@
 I'm seeking to be a software developer, currently studying at 42Porto, an innovative and community-driven coding school with a unique approach to learning.
 I'm passionate about learning new technologies and improving my coding skills.
 
-## What I'm Currently Learning
-
-- **C++** : Exploring object-oriented programming and advanced features.
-- **Frontend Development** : Learning HTML, CSS, and JavaScript/TypeScript to build responsive and interactive web applications.
-
 ## What I Use
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
